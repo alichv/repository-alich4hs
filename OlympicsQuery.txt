@@ -2,3 +2,8 @@
 
 SELECT `teams`.`team_name`, `groups`.`group_name` FROM `teams`, `groups` 
 WHERE `teams`.`group_id`=1 AND`teams`.`group_id` = `groups`.`id_group`
+
+
+
+
+adding text to update to gitHUB   nnnnnn
